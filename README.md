@@ -1,0 +1,2 @@
+# ImageProcessingAlgorithm
+图像处理算法的实现，使用MFC框架，结合多线程编程与CUDA的GPU编程
